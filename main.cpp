@@ -60,9 +60,9 @@ GLfloat WallHeight = 2.0;
 
 void DrawHigherWallPart(int NumElements)
 /*Draws a wall part like this:
-	 ___	___	   ___
-	|	|  |   |  |   |
-	|___|  |___|  |___| 
+	 ___	___
+	|  |   |  |   
+	|__|   |__| 
   and so on
   such an element is squareshaped and has the height/width WallElementSize*/
 {
